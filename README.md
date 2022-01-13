@@ -1,2 +1,2 @@
-# icejan-repo
-GitHub Profile README
+# Hello
+My name is Janice
