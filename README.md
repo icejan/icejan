@@ -4,9 +4,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Computer Engineering at Toronto Metropolitan University.\
-🌱 &nbsp;I'm on track for learning more about Software Architecture.\
+🌱 &nbsp;I'm on track for learning more about Databases and Software Design and Architecture.\
 ✍️ &nbsp;My hobbies are cooking, hiking, gardening, and graphic designing.\
 ✉️ &nbsp;You can shoot me an email at janice.zhu@torontomu.ca! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://janicezhu.com/assets/Resume.pdf) for more details about me. I'm open to feedback and suggestions!
@@ -29,7 +29,6 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
 <a href="https://janicezhu.com/"><img src="https://img.shields.io/badge/-janicezhu.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:janice.zhu@torontomu.ca"><img src="https://img.shields.io/badge/-janice.zhu@torontomu.ca-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
