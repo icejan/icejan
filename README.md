@@ -25,17 +25,17 @@
 ![Assembly](https://img.shields.io/badge/-Assembly-05122A?logo=assembly&logoColor=%23a179dc)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?logo=gnubash)&nbsp;\
 ![React](https://img.shields.io/badge/-React-05122A?logo=react&logoColor=A8B9CC)&nbsp;
-![Django](https://img.shields.io/badge/-Django-193B2B?logo=django)&nbsp;
-![numPy](https://img.shields.io/badge/-numPy-193B2B?logo=numpy)&nbsp;
-![scikit-learn](https://img.shields.io/badge/-scikitlearn-193B2B?logo=scikitlearn)&nbsp;
-![Apache Tomcat](https://img.shields.io/badge/-Tomcat-ffffff?logo=apachetomcat)&nbsp;
-![JUnit](https://img.shields.io/badge/-Junit-193B2B?logo=junit5)&nbsp; \
+![Django](https://img.shields.io/badge/-Django-193B2B?logo=django&logoColor=A8B9CC)&nbsp;
+![numPy](https://img.shields.io/badge/-numPy-193B2B?logo=numpy&logoColor=A8B9CC)&nbsp;
+![scikit-learn](https://img.shields.io/badge/-scikitlearn-193B2B?logo=scikitlearn&logoColor=A8B9CC)&nbsp;
+![Apache Tomcat](https://img.shields.io/badge/-Tomcat-ffffff?logo=apachetomcat&logoColor=A8B9CC)&nbsp;
+![JUnit](https://img.shields.io/badge/-Junit-193B2B?logo=junit5&logoColor=A8B9CC)&nbsp; \
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?logo=oracle&logoColor=red)&nbsp;
-![mySQL](https://img.shields.io/badge/-mySQL-FFFFFF?logo=mysql)&nbsp;
+![mySQL](https://img.shields.io/badge/-mySQL-FFFFFF?logo=mysql&logoColor=A8B9CC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
