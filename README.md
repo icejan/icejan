@@ -35,7 +35,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?logo=oracle&logoColor=red)&nbsp;
-![mySQL](https://img.shields.io/badge/-mySQL-FFFFFF?logo=mysql&logoColor=A8B9CC)&nbsp;
+![mySQL](https://img.shields.io/badge/-mySQL-05122A?logo=mysql&logoColor=A8B9CC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
