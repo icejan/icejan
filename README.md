@@ -7,7 +7,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 🎓 &nbsp;I'm currently studying Software Engineering at Toronto Metropolitan University.\
 🌱 &nbsp;I'm on track for learning more about Software Architecture.\
-✍️ &nbsp;My hobbies are hiking, gardening, and [illustration](https://janicezhu.com/illustrations/illustrations.html).\
+✍️ &nbsp;My hobbies are baking and [illustration](https://janicezhu.com/illustrations/illustrations.html).\
 ✉️ &nbsp;You can shoot me an email at janice.zhu@torontomu.ca! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://janicezhu.com/assets/Resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
