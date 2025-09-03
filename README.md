@@ -40,6 +40,6 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="https://janicezhu.com/"><img src="https://img.shields.io/badge/-janicezhu.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<!-- <a href="https://janicezhu.com/"><img src="https://img.shields.io/badge/-janicezhu.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="mailto:janice.zhu@torontomu.ca"><img src="https://img.shields.io/badge/-janice.zhu@torontomu.ca-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
